@@ -11,7 +11,7 @@
 
 # Input: temperatures = [22,21,20]
 
-Output: [0,0,0]
+#Output: [0,0,0]
 
 from typing import List
 class Solution:
